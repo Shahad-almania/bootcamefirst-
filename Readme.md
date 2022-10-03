@@ -1,0 +1,49 @@
+
+# التمرين الاول
+Follow these steps:
+- Create a new project called  name.java.
+- Write a program that store your full name ( first name and last name ).
+- Print your full name.
+
+# التمرين الثاني
+Follow these steps:
+-  Create a new project called  sum.java.
+-  Create two variables and print the sum of theses variables.
+-  Save the total of the sum , and divide it by 2
+
+# التمرين الثالث
+Follow these steps:
+- Create a new project called role.java
+- Write a program that checks the role of the user
+- If the role is admin print "welcome admin" 
+- If the role is superuser print "welcome superuser" 
+- If the role is user print "welcome user" 
+- tip: use if else
+
+# التمرين الرابع
+Follow these steps:
+- Create a new project called loop1.java
+- print the numbers from 0 to 100
+- tip: use iteration
+# التمرين الخامس
+
+Follow these steps:
+- Create a new project called loop2.java
+- print the numbers from 100 to 30
+- tip: use iteration
+# التمرين السادس
+
+Follow these steps:
+- Create a new project called loop3.java
+- Write a program that takes number and store in varaible
+- Print this number power 5
+- tip: use iteration
+# التمرين السابع
+
+Follow these steps:
+- Create a new project called even.java
+- print the even numbers from 0 to 25
+- tip: use iteration and selection
+
+
+
